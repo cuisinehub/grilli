@@ -211,7 +211,7 @@ whatsappLink3.addEventListener("click", function(event) {
 
 
 
-// HTML FORM TO GOOGLE SHEET
+// HTML FORM TO GOOGLE SHEET 1
 window.addEventListener("load", function() {
   const form = document.getElementById('my-form1');
   form.addEventListener("submit", function(e) {
@@ -228,7 +228,7 @@ window.addEventListener("load", function() {
   });
 });
 
-// HTML FORM TO GOOGLE SHEET
+// HTML FORM TO GOOGLE SHEET 2
 window.addEventListener("load", function() {
   const form = document.getElementById('my-form2');
   form.addEventListener("submit", function(e) {
